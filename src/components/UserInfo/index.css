@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.profile-image {
+  height: 150px;
+  width: 150px;
+}
+.name {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: roboto;
+  color: black;
+}
+.profile-para {
+  font-size: 18px;
+  font-weight: 500;
+  font-family: roboto;
+  color: #9aa5b1;
+}
